@@ -39,7 +39,7 @@ logger:
 
 ota:
   - platform: esphome
-    password: Miro2krat
+    password: XXXXXXX
   - platform: web_server
 
 wifi:
